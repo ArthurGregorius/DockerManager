@@ -1,4 +1,5 @@
 import docker
+import pytest
 from docker.errors import NotFound, APIError
 
 # Inisialisasi klien Docker
