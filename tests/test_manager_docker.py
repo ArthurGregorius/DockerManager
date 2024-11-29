@@ -1,7 +1,6 @@
 # tests/test_manager_docker.py
 import pytest
 import docker
-from manager_docker import get_docker_version, create_container
 
 @pytest.fixture(scope="module")
 def docker_client():
