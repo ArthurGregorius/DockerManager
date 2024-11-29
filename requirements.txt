@@ -1,1 +1,2 @@
 docker==6.0.1      # Library untuk berinteraksi dengan Docker melalui Python
+pytest==7.4.0      # Framework untuk testing (hanya jika Anda menggunakan pytest)
